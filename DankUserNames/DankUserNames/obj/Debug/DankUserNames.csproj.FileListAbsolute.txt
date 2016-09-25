@@ -4,3 +4,9 @@ e:\eigene dokumente\visual studio 2015\Projects\DankUserNames\DankUserNames\bin\
 e:\eigene dokumente\visual studio 2015\Projects\DankUserNames\DankUserNames\obj\Debug\DankUserNames.csprojResolveAssemblyReference.cache
 e:\eigene dokumente\visual studio 2015\Projects\DankUserNames\DankUserNames\obj\Debug\DankUserNames.exe
 e:\eigene dokumente\visual studio 2015\Projects\DankUserNames\DankUserNames\obj\Debug\DankUserNames.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DankUserNames\DankUserNames\bin\Debug\DankUserNames.exe.config
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DankUserNames\DankUserNames\obj\Debug\DankUserNames.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DankUserNames\DankUserNames\obj\Debug\DankUserNames.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DankUserNames\DankUserNames\bin\Debug\DankUserNames.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DankUserNames\DankUserNames\bin\Debug\DankUserNames.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DankUserNames\DankUserNames\obj\Debug\DankUserNames.csprojResolveAssemblyReference.cache

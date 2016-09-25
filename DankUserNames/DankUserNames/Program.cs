@@ -8,13 +8,21 @@ using System.Threading.Tasks;
 namespace DankUserNames
 {
     class DankUserNames
+    //#281 [Intermediate] Dank usernames
     {
         static void Main(string[] args)
         {
             List<String> words = DankUserNames.readFile("C://temp//EnglishWordList.txt");
             //bool test = isSparseSubstr("donaldknuth", "onut");
-            findLongestUserName("Kerstin Kohout", words).ForEach(word => Console.WriteLine(word));
-            Console.WriteLine("=============");
+            String name;
+            do
+            {
+                Console.WriteLine("Enter your name:");
+                name = Console.ReadLine();
+                Console.WriteLine("Possible user names:");
+                findLongestUserName(name, words).ForEach(word => Console.WriteLine(word));
+                Console.WriteLine("=============");
+            } while (name != "exit");
             Console.ReadLine();
         }
 
