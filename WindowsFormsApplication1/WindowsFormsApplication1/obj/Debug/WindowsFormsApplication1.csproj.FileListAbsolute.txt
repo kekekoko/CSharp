@@ -1,0 +1,2 @@
+e:\eigene dokumente\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

@@ -1,0 +1,6 @@
+e:\eigene dokumente\visual studio 2015\Projects\Rövarspråket\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+e:\eigene dokumente\visual studio 2015\Projects\Rövarspråket\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+e:\eigene dokumente\visual studio 2015\Projects\Rövarspråket\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+e:\eigene dokumente\visual studio 2015\Projects\Rövarspråket\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+e:\eigene dokumente\visual studio 2015\Projects\Rövarspråket\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\Eigene Dokumente\Visual Studio 2015\Projects\Rövarspråket\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
