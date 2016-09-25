@@ -1,0 +1,6 @@
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SplurthianChemistry\SplurthianChemistry\bin\Debug\SplurthianChemistry.exe.config
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SplurthianChemistry\SplurthianChemistry\bin\Debug\SplurthianChemistry.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SplurthianChemistry\SplurthianChemistry\bin\Debug\SplurthianChemistry.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SplurthianChemistry\SplurthianChemistry\obj\Debug\SplurthianChemistry.csprojResolveAssemblyReference.cache
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SplurthianChemistry\SplurthianChemistry\obj\Debug\SplurthianChemistry.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SplurthianChemistry\SplurthianChemistry\obj\Debug\SplurthianChemistry.pdb
