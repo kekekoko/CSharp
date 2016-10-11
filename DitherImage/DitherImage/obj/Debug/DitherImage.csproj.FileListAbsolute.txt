@@ -1,0 +1,9 @@
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\bin\Debug\DitherImage.exe.config
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\bin\Debug\DitherImage.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\bin\Debug\DitherImage.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\obj\Debug\DitherImage.csprojResolveAssemblyReference.cache
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\obj\Debug\DitherImage.Properties.Resources.resources
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\obj\Debug\DitherImage.csproj.GenerateResource.Cache
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\obj\Debug\DitherImage.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\obj\Debug\DitherImage.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\DitherImage\DitherImage\obj\Debug\DitherImage.Form1.resources
