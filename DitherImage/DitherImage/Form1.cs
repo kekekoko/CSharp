@@ -16,14 +16,6 @@ namespace DitherImage
         public Form1()
         {
             InitializeComponent();
-            this.AllowDrop = true;
-            this.button1.DragDrop += new DragEventHandler(Form_DragDrop);
-        }
-
-        void Form_DragDrop(object sender, DragEventArgs e)
-        {
-            string[] FileList = (string[])e.Data.GetData(DataFormats.FileDrop, false);
-            //more processing
         }
 
         private void button1_Click(object sender, EventArgs e)
