@@ -52,11 +52,12 @@ namespace SplurthianChemistry
         {
             string newName = name.ToLower();
             int nameLength = newName.Length;
+            string possibleSymbol = "";
             for (int i = 0; i < nameLength; i++)
             {
                 for (int j = i+1; j < nameLength; j++)
                 {
-                    string possibleSymbol = newName[i].ToString() + newName[j].ToString();
+                    possibleSymbol = newName[i].ToString() + newName[j].ToString();
                     if (!this.symbols.Contains(possibleSymbol))
                     {
                         symbols.Add(possibleSymbol);
@@ -64,24 +65,35 @@ namespace SplurthianChemistry
                     }
                 }
             }
-            return "no possible symbol";
+            return "last possible symbol already taken: " + possibleSymbol;
         }
 
         Dictionary<string, string> assignSymbols()
         {
             this.elementTable = new Dictionary<string, string>();
-            foreach (string element in this.elements)
+            //foreach (string element in this.elements)
+
+            for (int i = 0; i < this.elements.Count(); i++)
             {
+                string element = this.elements[i];
                 string newSymbol = this.findBestSymbol(element);
-                if (newSymbol != "no possible symbol")
+                if (!newSymbol.StartsWith("last possible symbol already taken: "))
                 {
-                    elementTable.Add(element, newSymbol);
+                    elementTable.Add(newSymbol, element);
                 }
                 else
                 {
+                    newSymbol = newSymbol.Substring(newSymbol.LastIndexOf(' ') + 1);
+                    string removedElement;
+                    elementTable.TryGetValue(newSymbol, out removedElement);
+                    elementTable.Remove(newSymbol);
+                    elementTable.Add(newSymbol, element);
+                    this.elements.Remove(removedElement);
+                    this.elements.Add(removedElement);
                     //elementTable.Add(element, "no possible symbol");
+                    i--;
                 }
-                    
+                
             }
             return elementTable;
         }

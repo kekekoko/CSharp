@@ -1,3 +1,6 @@
 E:\Eigene Dokumente\Visual Studio 2015\Projects\SadCycles\ConsoleApplication1\bin\Debug\SadCycles.exe.config
 E:\Eigene Dokumente\Visual Studio 2015\Projects\SadCycles\ConsoleApplication1\obj\Debug\SadCycles.exe
 E:\Eigene Dokumente\Visual Studio 2015\Projects\SadCycles\ConsoleApplication1\obj\Debug\SadCycles.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SadCycles\ConsoleApplication1\bin\Debug\SadCycles.exe.config
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SadCycles\ConsoleApplication1\obj\Debug\SadCycles.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\SadCycles\ConsoleApplication1\obj\Debug\SadCycles.pdb

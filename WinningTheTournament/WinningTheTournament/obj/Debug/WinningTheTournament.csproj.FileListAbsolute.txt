@@ -1,0 +1,6 @@
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\WinningTheTournament\WinningTheTournament\bin\Debug\WinningTheTournament.exe.config
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\WinningTheTournament\WinningTheTournament\bin\Debug\WinningTheTournament.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\WinningTheTournament\WinningTheTournament\bin\Debug\WinningTheTournament.pdb
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\WinningTheTournament\WinningTheTournament\obj\Debug\WinningTheTournament.csprojResolveAssemblyReference.cache
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\WinningTheTournament\WinningTheTournament\obj\Debug\WinningTheTournament.exe
+E:\Eigene Dokumente\C#GitHub\CSharp\trunk\WinningTheTournament\WinningTheTournament\obj\Debug\WinningTheTournament.pdb
